@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=LED4-2
+Removed Pin From Net: NetName=GND Pin=PS1-1
+Removed Pin From Net: NetName=+5V Pin=PS1-3
+Removed Pin From Net: NetName=GND Pin=TP2-2
+Removed Pin From Net: NetName=GND Pin=TP2-2
+Removed Pin From Net: NetName=GND Pin=TP2-2
+Removed Member From Class: ClassName=Schematic Member=C5
+Removed Member From Class: ClassName=Schematic Member=LED4
+Removed Member From Class: ClassName=Schematic Member=PS1
+Removed Member From Class: ClassName=Schematic Member=R3
+Removed Member From Class: ClassName=Schematic Member=TP2

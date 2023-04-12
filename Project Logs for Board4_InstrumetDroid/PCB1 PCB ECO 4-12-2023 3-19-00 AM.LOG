@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VRM_+ Pin=TP11-1
+Removed Pin From Net: NetName=VRM_+ Pin=U3-4
+Added Pin To Net: NetName=NetR10_2 Pin=TP11-1
+Added Pin To Net: NetName=NetR10_2 Pin=U3-4
+Change Net Name : Old Net Name=NetR10_2 New Net Name=VRM_+
+Change Net Name : Old Net Name=VRM_+ New Net Name=NetQ1_3

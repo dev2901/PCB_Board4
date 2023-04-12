@@ -1,0 +1,19 @@
+Added Component: Designator=R17(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R18(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7KOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AD4/SDA Pin=R17-1
+Added Pin To Net: NetName=Vcc Pin=R17-2
+Added Pin To Net: NetName=AD5/SCL Pin=R18-1
+Added Pin To Net: NetName=Vcc Pin=R18-2
+Added Member To Class: ClassName=Schematic Member=Component R17 4.7KOhm
+Added Member To Class: ClassName=Schematic Member=Component R18 4.7KOhm
+Added Rule: Name=Schematic Width Constraint_4

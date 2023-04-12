@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AD4/SDA Pin=R17-1
+Removed Pin From Net: NetName=Vcc Pin=R17-2
+Removed Pin From Net: NetName=AD5/SCL Pin=R18-1
+Removed Pin From Net: NetName=Vcc Pin=R18-2
+Removed Member From Class: ClassName=Schematic Member=R17
+Removed Member From Class: ClassName=Schematic Member=R18
+Added Rule: Name=Schematic Width Constraint_1
